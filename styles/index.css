@@ -1,0 +1,331 @@
+.logo__icon {
+    margin-top: 22px;
+    margin-left: 144px;
+}
+
+.nav__bar{
+    height: 28px;
+    width: 350px;
+    max-width: 100%;
+    list-style: none;
+    margin-left: 640px;
+    margin-top: -30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ a{
+ text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+ color: #2F281E;
+ }
+a:hover{
+    color: #FF9900;
+}
+ .btn--in{
+    position: absolute;
+    width: 102px;
+    height: 46px;
+    margin-top: -53px;
+    margin-left: 1080px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #173A56;
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #FFFFFF;
+ }
+ .btn--in:hover{
+    background-color: #d8d6d3;
+ }
+
+ .btn--up{
+   position: absolute;
+   width: 102px;
+   height: 46px;
+   margin-top: -53px;
+   margin-left: 1200px; 
+   font-family: 'Poppins', sans-serif;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 24px;
+   color: #FFFFFF;
+   background: #FF9900;
+   border-radius: 4px;
+   border: none;
+  cursor: pointer;
+ }
+ .btn--up:hover{
+    background-color: #dfa44c;
+ }
+.btn--play{
+    position: absolute;
+    background: #FF9900;
+    border-radius: 4px;
+    width: 180px;
+    height: 53px;
+    border: none;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 489px ;
+    margin-left: 145px;
+    }
+
+.btn--play:hover{
+  background-color: #dfa44c;
+}
+
+.image__play{
+    margin-top: 505px;
+    margin-left: 380px;
+}
+
+.play__link{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #FF9900;
+}
+.play__link:hover{
+    color: #dfa44c;
+}
+
+.contenant__tittle{
+    position: absolute;
+    width: 518px;
+    height: 108px;
+    left: 145px;
+    top: 211px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 54px;
+    /* or 123% */
+    color: #2F281E;
+}
+.contenant__info{
+    position: absolute;
+    width: 458px;
+    height: 95px;
+    left: 145px;
+    top: 349px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    color: #544837;
+}
+
+.main__image{
+ position: relative;
+ top: -450px;
+ left: 666px;
+}
+.details__tittle{
+    position: absolute;
+    top:713px;
+    left:439px;
+    height: 108px;
+    width: 539px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #2F281E;
+}
+
+.details__tittle-info{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #2F281E;
+}
+.info__text {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;;
+}
+
+.info__test{
+    position: absolute;
+    top: 901px;
+    left: 161px;
+    width: 178px;
+    height: 240px;
+
+}
+
+.info__design{
+    position: absolute;
+    top: 901px;
+    left: 448px;
+    width: 172px;
+    height: 204px;
+}
+
+.info__preference{
+    position: absolute;
+    top: 901px;
+    left: 732px;
+    width: 178px;
+    height: 240px;
+}
+
+.info__second{
+    position: absolute;
+    top: 901px;
+    left: 1016px;
+    width: 178px;
+    height: 240px;
+}
+.btn--now{
+    position: absolute;
+    top: 1139px ;
+    left: 621px;
+    background: #FF9900;
+    border-radius: 4px;
+    width: 180px;
+    height: 53px;
+    border: none;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.btn--now:hover{
+    background-color: #dfa44c;
+}
+
+.text__desg{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.tittle__desg{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+.des__main-tittle{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+    }
+
+.design{
+    width: 486px;
+    height: 531px;
+    position: relative;
+    top: 141px;
+    left: 145px;
+}
+
+.image__design{
+    position: absolute;
+    top: 0px;
+    left: 735px;
+}
+.image__cust{
+    position: absolute;
+    top: 0px;
+    left: -800px;
+}
+.product{
+    width: 486px;
+    height: 531px;
+    position: absolute;
+    right: 135px; 
+    top: 2021px;
+}
+.prod__info{
+    display: inline-block;
+}
+.text__desg-pay{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    position: relative;
+    top: -49px;
+    left: 60px;
+}
+
+.text__desg-switch{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    position: relative;
+    top: -55px;
+    left: 60px;
+}
+
+.text__desg-track{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    position: relative;
+    top: -49px;
+    left: 60px;
+}
+
